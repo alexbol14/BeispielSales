@@ -5,6 +5,7 @@ public class SalesData {
 
 	public void display() {
 		System.out.println("ya esta");
+		System.out.println("test2");
 	}
 
 }
